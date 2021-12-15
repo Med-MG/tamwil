@@ -1,0 +1,18 @@
+{
+    "name": "administrateur/tamweel.site",
+    "autoload": {
+        "psr-4": {
+            "Administrateur\\TamweelSite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MOUIGUINA MOHAMED",
+            "email": "mohamedmouiguina7@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0",
+        "guzzlehttp/guzzle": "~5.3.1"
+    }
+}
