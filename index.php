@@ -3480,8 +3480,8 @@ function gotoprev_form_3_1(){
 					</div>
 				</div>
 				<div class="qlwapp-body">
-					<a class="qlwapp-account" data-action="open" data-phone="966597189745"
-						data-message="مرحبا بكم في مؤسسة تمويل السعودية نرجو من حضرتكم كتابة معلوماتك من اسم الكامل والوظيفة ونوع التمويل المطلوب"
+					<a class="qlwapp-account" data-action="open" data-phone="966597260758"
+						data-message="مرحبا 👋 أنا أرغب في طلب تمويلب"
 						href="javascript:void(0);" target="_blank">
 						<div class="qlwapp-avatar">
 							<div class="qlwapp-avatar-container">
@@ -3489,8 +3489,8 @@ function gotoprev_form_3_1(){
 							</div>
 						</div>
 						<div class="qlwapp-info">
-							<span class="qlwapp-label">Support</span>
-							<span class="qlwapp-name">خالد القاسم</span>
+							<span class="qlwapp-label">الدعم</span>
+							<span class="qlwapp-name">سلمى المالكي</span>
 						</div>
 					</a>
 				</div>
@@ -3499,8 +3499,8 @@ function gotoprev_form_3_1(){
 							href="https://quadlayers.com/whatsapp-chat-landing/?utm_source=qlwapp_admin">here!</a></p>
 				</div>
 			</div>
-			<a class="qlwapp-toggle" data-action="box" data-phone="12057948080"
-				data-message="مرحبا بكم في مؤسسة تمويل السعودية نرجو من حضرتكم كتابة معلوماتك من اسم الكامل والوظيفة ونوع التمويل المطلوب"
+			<a class="qlwapp-toggle" data-action="box" data-phone="966597260758"
+				data-message="مرحبا 👋 أنا أرغب في طلب تمويلب"
 				href="javascript:void(0);" target="_blank">
 				<i class="qlwapp-icon qlwapp-whatsapp-icon"></i>
 				<i class="qlwapp-close" data-action="close">&times;</i>
